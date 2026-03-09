@@ -11,7 +11,7 @@
 * **Strength Validation:** Analyzes passwords for complexity (length, digits, symbols, and casing).
 * **Breach Check:** Scans your input against the famous `rockyou.txt` wordlist (14+ million known leaked passwords) using memory-efficient **File Streaming**.
 * **Secure Generation:** Instantly creates high-entropy passwords tailored to your needs.
-* **ASCII UI:** Clean terminal interface with custom banners for a professional feel.
+
 
 ---
 
