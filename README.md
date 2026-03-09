@@ -1,6 +1,5 @@
-Here is the entire README content inside a single, continuous code block. You can click the **"Copy"** button on this block and paste it directly into your `README.md` file.
 
-```markdown
+
 # 🛡️ Passworder
 
 **Passworder** is a robust, lightweight password strength validator and generator built in Java. It is designed for users who prioritize privacy, running entirely **locally and safely** on your own machine without ever sending data to the cloud.
