@@ -3,9 +3,6 @@ import java.nio.file.*;
 import java.util.*;
 import java.util.stream.Stream;
 
-
-
-
 class password_strenght_check{
     public static void main(String[] args) {
         
